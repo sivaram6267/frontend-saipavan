@@ -13,7 +13,7 @@ import axios from "axios";
 // const BASE_URL = "http://10.81.4.191:2030"; // sudheer pc
 //  const BASE_URL = "http://10.81.4.23:2030"; // server pc
 //const BASE_URL = "http://localhost:2032"
-const BASE_URL = "http://18.246.129.93 :8080/LESM-Status-Monitor-0.0.1-SNAPSHOT";
+const BASE_URL = "http://18.246.129.93:8080/LESM-Status-Monitor-0.0.1-SNAPSHOT";
 
 //sowmya pc
 // const BASE_URL = "http://10.81.4.197:2021"; // chamu pc
